@@ -1,25 +1,12 @@
-# ![](img/calc-32x32.png) Independent ReactOS Calc
+# Independent ReactOS Calc
 
-This is a calculator from [ReactOS](https://reactos.org/).
-
-![(The screenshot)](img/screenshot.png)
+This is a calculator from ReactOS.
 
 It's a free and open source software for Windows XP and later.
 
-<p align=center>
-  <a href="https://reactos.org/">
-    <img alt="ReactOS" src="img/reactos-225x54.png">
-  </a>
-</p>
-
-<p align=center>
-  <a href="https://reactos.org/donate/">
-    <img alt="Donate" src="https://img.shields.io/badge/%24-donate-E44E4A.svg">
-  </a>
-  <a href="https://twitter.com/reactos">
-    <img alt="Follow on Twitter" src="https://img.shields.io/twitter/follow/reactos.svg?style=social&label=Follow%20%40reactos">
-  </a>
-</p>
+- ReactOS: https://reactos.org/
+- Donate ReactOS: https://reactos.org/donate/
+- Follow on Twitter: https://twitter.com/reactos
 
 ## Main code contributors
 
