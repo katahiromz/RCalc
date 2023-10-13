@@ -46,8 +46,7 @@ add_executable(calc WIN32
     utl_ieee.c
     #utl_mpfr.c # multi-precision is not supported yet
     winmain.c
-    resource.rc
-    compat/_CrtSetDbgFlag.c)
+    resource.rc)
 
 target_compile_definitions(calc PRIVATE
     UNICODE _UNICODE _CRT_SECURE_NO_WARNINGS
